@@ -1,0 +1,16 @@
+
+* Introduction
+
+These package contains tools for exporting messages from MicroSoft
+Outlook.
+
+
+* References
+
+The following are some useful references for developing this or
+related software.
+
+** Documentation
+
+  - [[https://docs.microsoft.com/en-us/office/vba/api/outlook.mailitem][Outlook MailItem documentation]]
+  - [[https://docs.microsoft.com/en-us/dotnet/api/microsoft.office.interop.outlook.mapifolder?view=outlook-pia][Outlook MAPI Interface docs]]
